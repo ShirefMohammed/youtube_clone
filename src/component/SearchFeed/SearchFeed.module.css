@@ -1,0 +1,11 @@
+.search_videos {
+    min-height: calc(100vh - 80px);
+    padding: 20px;
+}
+
+.results_message {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
